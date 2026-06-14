@@ -1,0 +1,40 @@
+{
+  "achievements": [
+    {
+      "title": "Built Production RAG Chatbot",
+      "category": "AI / Project",
+      "description": "Designed and deployed a complete PDF-RAG-Chatbot using LangChain, Mistral AI, FAISS, and Streamlit. The system enables intelligent Q&A over any PDF document with persistent chat history stored in SQLite.",
+      "year": "2024",
+      "impact": "Demonstrates end-to-end AI/RAG engineering from document ingestion to LLM response generation"
+    },
+    {
+      "title": "Full-Stack Streamlit Application",
+      "category": "Software Engineering",
+      "description": "Built a complete Job Application Tracker with user authentication, CRUD operations, analytics dashboards, and CSV export. Clean code architecture with Streamlit + SQLite.",
+      "year": "2024",
+      "impact": "Demonstrates full-stack Python development with real authentication and data persistence"
+    },
+    {
+      "title": "DevOps Infrastructure Automation",
+      "category": "DevOps",
+      "description": "Designed end-to-end CI/CD pipeline architecture using GitHub Actions, Docker, Kubernetes, and Terraform for AWS cloud deployment. Complete GitOps workflow with Prometheus/Grafana monitoring.",
+      "year": "2025",
+      "impact": "Demonstrates professional DevOps engineering with real infrastructure-as-code patterns"
+    },
+    {
+      "title": "Multi-Domain Technical Expertise",
+      "category": "Learning",
+      "description": "Self-taught expertise spanning DevOps (Docker, K8s, Terraform), Cloud (AWS, GCP), AI/ML (LangChain, PyTorch, RAG), and Backend (Python, C++, Django, FastAPI) — all demonstrated through working projects.",
+      "year": "2023–2025",
+      "impact": "Rare combination of DevOps automation + AI engineering skills in one engineer"
+    },
+    {
+      "title": "Open Source Portfolio",
+      "category": "GitHub",
+      "description": "Maintains an active GitHub profile with real, working projects covering AI/RAG, web applications, and DevOps automation. All projects include documentation and clean code.",
+      "year": "2023–Present",
+      "impact": "Transparent, verifiable skill demonstration through public code"
+    }
+  ],
+  "summary": "Suryanandan's key achievements include building a production RAG chatbot, a full-stack Streamlit application, and designing enterprise-grade DevOps CI/CD pipelines. He has developed rare cross-domain expertise in DevOps automation and AI engineering simultaneously."
+}

@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Suryanandan Kumar | DevOps · Cloud · AI Engineer</title>
+  <meta name="description" content="Suryanandan Kumar - DevOps Engineer, Cloud Architect, AI & RAG Developer from Gurugram, India.">
+  <meta property="og:title" content="Suryanandan Kumar | DevOps · Cloud · AI">
+  <meta property="og:description" content="Building reliable, automated infrastructure and intelligent AI systems.">
+  <meta property="og:image" content="https://avatars.githubusercontent.com/u/96558855?v=4">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/skbot.css">
+  <link rel="icon" href="assets/icons/favicon.svg">
+</head>
+<body>
+<canvas id="particles" style="position:fixed;top:0;left:0;pointer-events:none;z-index:0;opacity:0.5;"></canvas>
+
+<!-- NAV -->
+<nav class="nav">
+  <a href="#hero" class="nav-logo">SK.</a>
+  <ul class="nav-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#automation">Roles</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+  <a href="#contact" class="nav-cta">HIRE ME</a>
+  <div class="hamburger"><span></span><span></span><span></span></div>
+</nav>
+
+<!-- HERO -->
+<section id="hero">
+  <div class="hero-bg-orbs">
+    <div class="orb orb-1"></div><div class="orb orb-2"></div><div class="orb orb-3"></div>
+  </div>
+  <div class="hero-content">
+    <div class="hero-text">
+      <div class="hero-badge"><span class="badge-dot"></span>Available for Collaboration</div>
+      <h1 class="hero-name">Suryanandan<span class="highlight">Kumar</span></h1>
+      <div class="hero-roles">&gt;&nbsp;<span id="typed-text"></span><span class="typed-cursor">_</span></div>
+      <p class="hero-quote">"If something can be automated, I'll script it —<br>laziness is just efficiency in disguise."</p>
+      <div class="hero-actions">
+        <a href="#projects" class="btn-primary">⚡ View Projects</a>
+        <a href="#contact" class="btn-outline">✉ Get In Touch</a>
+        <a href="https://github.com/Suryanandankumar2003" target="_blank" class="btn-outline">⎔ GitHub</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat-item"><div class="stat-num counter" data-target="5">5</div><div class="stat-label">Repos</div></div>
+        <div class="stat-item"><div class="stat-num counter" data-target="3">3</div><div class="stat-label">Focus Areas</div></div>
+        <div class="stat-item"><div class="stat-num">∞</div><div class="stat-label">Automation</div></div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="avatar-container">
+        <div class="avatar-ring"></div>
+        <div class="avatar-ring-2"></div>
+        <img id="avatar-img" src="https://avatars.githubusercontent.com/u/96558855?v=4"
+          alt="Suryanandan Kumar" class="avatar-img"
+          onerror="this.style.display='none';document.getElementById('avatar-placeholder').style.display='flex';">
+        <div id="avatar-placeholder" class="avatar-placeholder" style="display:none;">👨‍💻</div>
+      </div>
+      <!-- <label for="photo-input" style="position:absolute;bottom:-38px;left:50%;transform:translateX(-50%);cursor:pointer;">
+        <span class="photo-upload-hint">📷 Click to update photo</span>
+        <input type="file" id="photo-input" accept="image/*" style="display:none;">
+      </label> -->
+    </div>
+  </div>
+  <div class="scroll-indicator"><span class="scroll-text">scroll</span><div class="scroll-line"></div></div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">// who_am_i.sh</span>
+      <h2 class="section-title">About Me</h2>
+      <div class="section-line"></div>
+    </div>
+    <div class="about-grid">
+      <div class="about-text reveal">
+        <p>I'm a <strong style="color:var(--accent-cyan)">DevOps and Cloud enthusiast</strong> focused on building reliable, automated infrastructure. I enjoy turning complex, manual workflows into clean, repeatable systems — whether that's a Dockerized application, a CI/CD pipeline, a cloud deployment on AWS, or an intelligent RAG-powered application.</p>
+        <p>Currently building end-to-end <strong style="color:var(--accent-lime)">Retrieval-Augmented Generation (RAG)</strong> systems that combine DevOps automation with modern AI, creating production-ready intelligent applications.</p>
+        <div class="about-info-grid">
+          <div class="info-row"><span class="info-icon">🔭</span><span class="info-label">Currently Building</span><span class="info-value">Dockerized apps, CI/CD pipelines, RAG systems &amp; AWS</span></div>
+          <div class="info-row"><span class="info-icon">🌱</span><span class="info-label">Currently Learning</span><span class="info-value">Kubernetes, Terraform, advanced AWS &amp; LLMs</span></div>
+          <div class="info-row"><span class="info-icon">🤝</span><span class="info-label">Open to Collaborate</span><span class="info-value">DevOps, cloud infra &amp; automation projects</span></div>
+          <div class="info-row"><span class="info-icon">💬</span><span class="info-label">Ask Me About</span><span class="info-value">C++, SQL, Linux, Git &amp; cloud deployment</span></div>
+          <div class="info-row"><span class="info-icon">📍</span><span class="info-label">Location</span><span class="info-value">Gurugram, India (UTC +05:30)</span></div>
+          <div class="info-row"><span class="info-icon">📧</span><span class="info-label">Email</span><span class="info-value">suryanandankumar2003@gmail.com</span></div>
+        </div>
+      </div>
+      <div class="reveal">
+        <div class="terminal">
+          <div class="terminal-bar">
+            <div class="terminal-dot td-red"></div><div class="terminal-dot td-yellow"></div><div class="terminal-dot td-green"></div>
+          </div>
+          <div class="terminal-line"><span class="terminal-prompt">sk@devops:~$ </span><span class="terminal-cmd">cat profile.yaml</span></div>
+          <div class="terminal-line terminal-out">name: Suryanandan Kumar</div>
+          <div class="terminal-line terminal-out">role: DevOps Engineer</div>
+          <div class="terminal-line terminal-out">location: Gurugram, India</div>
+          <div class="terminal-line terminal-out">stack: [AWS, Docker, K8s, Python, LangChain]</div>
+          <div class="terminal-line terminal-out">focus: ["CI/CD", "RAG Systems", "IaC"]</div>
+          <div class="terminal-line terminal-out">status: <span style="color:var(--accent-lime)">ACTIVE ✓</span></div><br>
+          <div class="terminal-line"><span class="terminal-prompt">sk@devops:~$ </span><span class="terminal-cmd">docker ps</span></div>
+          <div class="terminal-line terminal-comment"># RAG-Chatbot     Up 3 days   ✓</div>
+          <div class="terminal-line terminal-comment"># Job-Tracker     Up 1 week   ✓</div>
+          <div class="terminal-line terminal-comment"># Portfolio       Up Now      ✓</div><br>
+          <div class="terminal-line"><span class="terminal-prompt">sk@devops:~$ </span><span style="color:var(--accent-cyan)">_</span></div>
+        </div>
+        <div class="tech-highlight-box" style="margin-top:1.5rem;">
+          <h3>// active_learning_stack</h3>
+          <div class="tech-pills">
+            <span class="pill">Kubernetes</span><span class="pill">Terraform</span>
+            <span class="pill green">LLM Dev</span><span class="pill green">RAG Pipelines</span>
+            <span class="pill blue">AWS Advanced</span><span class="pill blue">GitOps</span>
+            <span class="pill purple">LangChain</span><span class="pill purple">Vector DBs</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">// skills.json</span>
+      <h2 class="section-title">Tech Stack</h2>
+      <div class="section-line"></div>
+    </div>
+    <div class="skills-grid">
+      <div class="skill-card reveal">
+        <div class="skill-card-header"><div class="skill-icon">☁️</div><div class="skill-card-title">CLOUD &amp; DEVOPS</div></div>
+        <div class="skill-items">
+          <span class="skill-tag">AWS</span><span class="skill-tag">Google Cloud</span><span class="skill-tag">Docker</span>
+          <span class="skill-tag">Kubernetes</span><span class="skill-tag">Terraform</span><span class="skill-tag">Ansible</span>
+          <span class="skill-tag">Jenkins</span><span class="skill-tag">GitHub Actions</span><span class="skill-tag">CI/CD</span>
+          <span class="skill-tag">Infrastructure as Code</span>
+        </div>
+      </div>
+      <div class="skill-card reveal">
+        <div class="skill-card-header"><div class="skill-icon">🤖</div><div class="skill-card-title">AI &amp; RAG SYSTEMS</div></div>
+        <div class="skill-items">
+          <span class="skill-tag">LangChain</span><span class="skill-tag">LlamaIndex</span><span class="skill-tag">HuggingFace</span>
+          <span class="skill-tag">FAISS</span><span class="skill-tag">ChromaDB</span><span class="skill-tag">Pinecone</span>
+          <span class="skill-tag">Mistral AI</span><span class="skill-tag">RAG Pipelines</span>
+          <span class="skill-tag">TensorFlow</span><span class="skill-tag">PyTorch</span><span class="skill-tag">scikit-learn</span>
+        </div>
+      </div>
+      <div class="skill-card reveal">
+        <div class="skill-card-header"><div class="skill-icon">💻</div><div class="skill-card-title">LANGUAGES</div></div>
+        <div class="skill-items">
+          <span class="skill-tag">Python</span><span class="skill-tag">C++</span><span class="skill-tag">JavaScript</span>
+          <span class="skill-tag">Java</span><span class="skill-tag">C</span><span class="skill-tag">HTML5</span>
+          <span class="skill-tag">CSS3</span><span class="skill-tag">Bash/Shell</span><span class="skill-tag">SQL</span>
+        </div>
+      </div>
+      <div class="skill-card reveal">
+        <div class="skill-card-header"><div class="skill-icon">📚</div><div class="skill-card-title">FRAMEWORKS &amp; LIBS</div></div>
+        <div class="skill-items">
+          <span class="skill-tag">Django</span><span class="skill-tag">FastAPI</span><span class="skill-tag">Streamlit</span>
+          <span class="skill-tag">NumPy</span><span class="skill-tag">Pandas</span><span class="skill-tag">Matplotlib</span><span class="skill-tag">OpenCV</span>
+        </div>
+      </div>
+      <div class="skill-card reveal">
+        <div class="skill-card-header"><div class="skill-icon">🗄️</div><div class="skill-card-title">DATABASES</div></div>
+        <div class="skill-items">
+          <span class="skill-tag">MySQL</span><span class="skill-tag">PostgreSQL</span><span class="skill-tag">DynamoDB</span>
+          <span class="skill-tag">SQLite</span><span class="skill-tag">FAISS (Vector)</span><span class="skill-tag">ChromaDB</span>
+        </div>
+      </div>
+      <div class="skill-card reveal">
+        <div class="skill-card-header"><div class="skill-icon">🛠️</div><div class="skill-card-title">TOOLS &amp; PLATFORMS</div></div>
+        <div class="skill-items">
+          <span class="skill-tag">Git &amp; GitHub</span><span class="skill-tag">Linux/Ubuntu</span><span class="skill-tag">VS Code</span>
+          <span class="skill-tag">Prometheus</span><span class="skill-tag">Grafana</span><span class="skill-tag">Nginx</span><span class="skill-tag">Postman</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">// git log --oneline</span>
+      <h2 class="section-title">Projects</h2>
+      <div class="section-line"></div>
+    </div>
+    <div class="projects-grid">
+      <div class="project-card reveal">
+        <div class="project-header"><span class="project-emoji">🤖</span><span class="project-status">Active</span></div>
+        <div class="project-category">AI / RAG</div>
+        <h3 class="project-name">PDF-RAG-Chatbot</h3>
+        <p class="project-desc">AI-powered PDF chatbot using LangChain, Mistral AI, FAISS, Streamlit and SQLite. Enables intelligent Q&amp;A over any PDF document with persistent chat history.</p>
+        <div class="project-tech">
+          <span class="tech-tag">Python</span><span class="tech-tag">LangChain</span><span class="tech-tag">Mistral AI</span>
+          <span class="tech-tag">FAISS</span><span class="tech-tag">Streamlit</span><span class="tech-tag">SQLite</span>
+        </div>
+        <div class="project-links"><a href="https://github.com/Suryanandankumar2003/PDF-RAG-Chatbot" target="_blank" class="project-link">⎔ View Code</a></div>
+      </div>
+      <div class="project-card reveal">
+        <div class="project-header"><span class="project-emoji">📊</span><span class="project-status">Active</span></div>
+        <div class="project-category">Web App</div>
+        <h3 class="project-name">Job Application Tracker</h3>
+        <p class="project-desc">Full-featured job application tracker with user auth, status tracking, and analytics dashboards built with Streamlit. Manages the entire job search lifecycle.</p>
+        <div class="project-tech">
+          <span class="tech-tag">Python</span><span class="tech-tag">Streamlit</span><span class="tech-tag">Authentication</span>
+          <span class="tech-tag">Analytics</span><span class="tech-tag">SQLite</span>
+        </div>
+        <div class="project-links"><a href="https://github.com/Suryanandankumar2003/Job-Application-Tracker" target="_blank" class="project-link">⎔ View Code</a></div>
+      </div>
+      <div class="project-card reveal" style="border-style:dashed;opacity:0.75;">
+        <div class="project-header"><span class="project-emoji">🚀</span><span class="project-status" style="background:rgba(59,130,246,0.1);border-color:rgba(59,130,246,0.3);color:var(--neon-blue);">Building</span></div>
+        <div class="project-category">DevOps / IaC</div>
+        <h3 class="project-name">Kubernetes CI/CD Pipeline</h3>
+        <p class="project-desc">End-to-end CI/CD pipeline with Kubernetes orchestration, Terraform IaC, Jenkins automation, and AWS cloud deployment with Prometheus + Grafana monitoring.</p>
+        <div class="project-tech">
+          <span class="tech-tag">Kubernetes</span><span class="tech-tag">Terraform</span><span class="tech-tag">Jenkins</span>
+          <span class="tech-tag">AWS</span><span class="tech-tag">Prometheus</span><span class="tech-tag">Grafana</span>
+        </div>
+        <div class="project-links"><a href="https://github.com/Suryanandankumar2003" target="_blank" class="project-link">⎔ GitHub Profile</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- AUTOMATION ROLES -->
+<section id="automation">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">// role --select</span>
+      <h2 class="section-title">What I Do</h2>
+      <div class="section-line"></div>
+    </div>
+    <div class="roles-tabs">
+      <button class="role-tab active" data-tab="tab-devops">🛠 DevOps Engineer</button>
+      <button class="role-tab" data-tab="tab-software">💻 Software Engineer</button>
+      <button class="role-tab" data-tab="tab-ai">🤖 AI Developer</button>
+    </div>
+    <div class="role-content active reveal" id="tab-devops">
+      <div class="role-panel">
+        <div class="role-icon-big">🛠️<span class="role-icon-title">DEVOPS ENGINEER</span></div>
+        <div class="role-description">
+          <h3>Building Automated Infrastructure</h3>
+          <p>I design, build, and maintain CI/CD pipelines that automate the full software delivery lifecycle. Using Docker for containerization and Kubernetes for orchestration, I ensure applications run reliably at scale with full Prometheus + Grafana observability.</p>
+          <div class="role-tools"><h4>// automation_pipeline</h4>
+            <div class="tool-flow">
+              <span class="tool-item cyan">Git Push</span><span class="tool-arrow">→</span>
+              <span class="tool-item green">GitHub Actions</span><span class="tool-arrow">→</span>
+              <span class="tool-item blue">Docker Build</span><span class="tool-arrow">→</span>
+              <span class="tool-item cyan">K8s Deploy</span><span class="tool-arrow">→</span>
+              <span class="tool-item green">AWS Cloud</span><span class="tool-arrow">→</span>
+              <span class="tool-item purple">Monitor</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="role-content reveal" id="tab-software">
+      <div class="role-panel">
+        <div class="role-icon-big">💻<span class="role-icon-title">SOFTWARE ENGINEER</span></div>
+        <div class="role-description">
+          <h3>Crafting Clean, Scalable Code</h3>
+          <p>I build backend systems, APIs, and data-driven applications using Python, C++, and JavaScript. My projects demonstrate clean architecture with authentication, database integration, and interactive dashboards.</p>
+          <div class="role-tools"><h4>// dev_stack</h4>
+            <div class="tool-flow">
+              <span class="tool-item cyan">Python</span><span class="tool-item green">C++</span>
+              <span class="tool-item blue">JavaScript</span><span class="tool-item cyan">Django</span>
+              <span class="tool-item green">FastAPI</span><span class="tool-item blue">MySQL</span><span class="tool-item purple">PostgreSQL</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="role-content reveal" id="tab-ai">
+      <div class="role-panel">
+        <div class="role-icon-big">🤖<span class="role-icon-title">AI DEVELOPER</span></div>
+        <div class="role-description">
+          <h3>Building Intelligent RAG Applications</h3>
+          <p>I specialize in <strong style="color:var(--accent-cyan)">Retrieval-Augmented Generation (RAG)</strong> systems combining LLMs with custom knowledge bases. My PDF-RAG-Chatbot ingests documents, creates vector embeddings, and enables intelligent Q&amp;A with Mistral AI.</p>
+          <div class="role-tools"><h4>// rag_pipeline</h4>
+            <div class="tool-flow">
+              <span class="tool-item cyan">Doc Ingestion</span><span class="tool-arrow">→</span>
+              <span class="tool-item green">Embeddings</span><span class="tool-arrow">→</span>
+              <span class="tool-item blue">ChromaDB/FAISS</span><span class="tool-arrow">→</span>
+              <span class="tool-item purple">Mistral AI</span><span class="tool-arrow">→</span>
+              <span class="tool-item cyan">Response</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- EDUCATION & PROFESSIONAL TRAINING -->
+<section id="education">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">// education --load</span>
+      <h2 class="section-title">Education & Training</h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="edu-timeline">
+
+      <!-- ── DEGREE ── -->
+      <div class="edu-card reveal">
+        <div class="edu-icon-col">
+          <div class="edu-icon">🎓</div>
+          <div class="edu-vline"></div>
+        </div>
+        <div class="edu-body">
+          <div class="edu-meta-row">
+            <span class="edu-type-badge">Degree</span>
+            <span class="edu-duration">2021 – 2025</span>
+          </div>
+          <h3 class="edu-title">Bachelor of Technology (B.Tech)</h3>
+          <div class="edu-subtitle">Computer Science &amp; Engineering</div>
+          <div class="edu-institution">
+            <span class="edu-inst-item">🏛️College: Sitamarhi Institute of Technology, Sitamarhi</span>
+            <span class="edu-inst-sep">·</span>
+            <span class="edu-inst-item">📋University : Bihar Engineering University, Patna</span>
+          </div>
+
+
+        <div class="edu-cert-badges">
+            <span class="edu-badge-complete">🎯 CGPA: 7.9/10</span>
+        </div>                   
+
+          <p class="edu-desc">
+            Complementing academic studies with hands-on, project-driven learning in Web Development,
+            Software Development, and Machine Learning. Actively developing real-world applications using
+            Python, FastAPI, Git/GitHub, and modern backend technologies to build practical engineering expertise.
+          </p>
+          
+          <div class="edu-highlights">
+            <div class="edu-highlight-title">📚 Relevant Coursework</div>
+            <div class="edu-tags">
+              <span class="edu-tag">Data Structures &amp; Algorithms</span>
+              <span class="edu-tag">Object-Oriented Programming</span>
+              <span class="edu-tag">Database Management Systems</span>
+              <span class="edu-tag">Operating Systems</span>
+              <span class="edu-tag">Computer Networks</span>
+              <span class="edu-tag">Software Engineering</span>
+            </div>
+            <div class="edu-highlight-title" style="margin-top:0.8rem;">🎯 Specialization Interests</div>
+            <div class="edu-tags">
+              <span class="edu-tag interest">Artificial Intelligence</span>
+              <span class="edu-tag interest">Cloud Computing</span>
+              <span class="edu-tag interest">Backend Development</span>
+              <span class="edu-tag interest">Modern Software Engineering</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── PROFESSIONAL TRAINING ── -->
+      <div class="edu-card reveal">
+        <div class="edu-icon-col">
+          <div class="edu-icon training">🛠️</div>
+          <div class="edu-vline" style="display:none;"></div>
+        </div>
+        <div class="edu-body">
+          <div class="edu-meta-row">
+            <span class="edu-type-badge training">Professional Training</span>
+            <span class="edu-duration">Sep 2025 – Jan 2026 · 90 Days</span>
+          </div>
+          <h3 class="edu-title">AI DevOps Professional Training Program</h3>
+          <div class="edu-subtitle">Industry-Oriented Certification</div>
+
+          <div class="edu-institution">
+              <span class="edu-inst-item">🏢 Orbiqe Technologies Pvt. Ltd.</span>
+              <span class="edu-inst-sep">•</span>
+              <span class="edu-inst-item">🤝 Sponsored by Bihar Skill Development Mission (BSDM)</span>
+          </div>
+          <p class="edu-desc">
+            Completed a 90-day hands-on AI & DevOps Professional Training Program with practical labs and project-based learning, covering Linux administration, shell scripting, Git & GitHub, Docker, Kubernetes fundamentals, Jenkins CI/CD, Ansible, AWS cloud basics, and deployment workflows. The program was conducted by Orbiqe Technologies Pvt. Ltd. under the Bihar Skill Development Mission (BSDM) and aligned with NASSCOM industry standards.
+          </p>
+        
+
+          <!-- Tech covered grid -->
+          <div class="edu-tech-grid">
+            <div class="edu-tech-block">
+              <div class="edu-tech-label">🐧 Linux &amp; Shell</div>
+              <div class="edu-tags">
+                <span class="edu-tag">Linux/Ubuntu</span>
+                <span class="edu-tag">Shell Scripting</span>
+                <span class="edu-tag">Bash Automation</span>
+              </div>
+            </div>
+            <div class="edu-tech-block">
+              <div class="edu-tech-label">⎔ Version Control</div>
+              <div class="edu-tags">
+                <span class="edu-tag">Git</span>
+                <span class="edu-tag">GitHub</span>
+                <span class="edu-tag">Branching Strategies</span>
+              </div>
+            </div>
+            <div class="edu-tech-block">
+              <div class="edu-tech-label">📦 Containers</div>
+              <div class="edu-tags">
+                <span class="edu-tag">Docker</span>
+                <span class="edu-tag">Docker Compose</span>
+                <span class="edu-tag">Kubernetes Fundamentals</span>
+              </div>
+            </div>
+            <div class="edu-tech-block">
+              <div class="edu-tech-label">⚙️ CI/CD &amp; IaC</div>
+              <div class="edu-tags">
+                <span class="edu-tag">Jenkins</span>
+                <span class="edu-tag">CI/CD Pipelines</span>
+                <span class="edu-tag">Ansible</span>
+                <span class="edu-tag">Infrastructure Automation</span>
+              </div>
+            </div>
+            <div class="edu-tech-block">
+              <div class="edu-tech-label">☁️ Cloud</div>
+              <div class="edu-tags">
+                <span class="edu-tag">AWS Basics</span>
+                <span class="edu-tag">Cloud Fundamentals</span>
+                <span class="edu-tag">Deployment Workflows</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Completion badge -->
+          <div class="edu-completion">
+            <span class="edu-badge-complete">✓ COMPLETED · 90 DAYS · PRACTICAL LABS</span>
+            <span class="edu-badge-complete">🏅 NASSCOM Certified</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">// ping suryanandan</span>
+      <h2 class="section-title">Get In Touch</h2>
+      <div class="section-line"></div>
+    </div>
+    <div class="contact-grid">
+      <div class="reveal">
+        <h3>Let's Build Something</h3>
+        <p>Whether you have a DevOps challenge, a cloud project, or want to collaborate on AI/RAG systems — I'm open to interesting conversations and opportunities.</p>
+        <div class="contact-links">
+          <a href="mailto:suryanandankumar2003@gmail.com" class="contact-link-item">
+            <span class="contact-link-icon">📧</span>
+            <div class="contact-link-info"><div class="contact-link-label">Email</div><div class="contact-link-value">suryanandankumar2003@gmail.com</div></div>
+          </a>
+          <a href="https://www.linkedin.com/in/suryanandan-kumar" target="_blank" class="contact-link-item">
+            <span class="contact-link-icon">🔗</span>
+            <div class="contact-link-info"><div class="contact-link-label">LinkedIn</div><div class="contact-link-value">in/suryanandan-kumar</div></div>
+          </a>
+          <a href="https://github.com/Suryanandankumar2003" target="_blank" class="contact-link-item">
+            <span class="contact-link-icon">⎔</span>
+            <div class="contact-link-info"><div class="contact-link-label">GitHub</div><div class="contact-link-value">Suryanandankumar2003</div></div>
+          </a>
+          <div class="contact-link-item" style="cursor:default;">
+            <span class="contact-link-icon">📍</span>
+            <div class="contact-link-info"><div class="contact-link-label">Location</div><div class="contact-link-value">Gurugram, India (UTC +05:30)</div></div>
+          </div>
+        </div>
+
+        <!-- Storage indicators -->
+        <div style="margin-top:1.5rem;padding:1rem;border:1px solid rgba(0,229,255,0.15);background:rgba(10,22,40,0.6);">
+          <div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--accent-cyan);letter-spacing:1px;margin-bottom:0.6rem;">// contact_storage</div>
+          <div style="display:flex;flex-direction:column;gap:0.4rem;">
+            <div style="font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--accent-lime);">✓ contacts.csv &nbsp;&nbsp;&nbsp;— Flat file backup</div>
+            <div style="font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--accent-lime);">✓ contacts.db &nbsp;&nbsp;&nbsp;&nbsp;— SQLite database</div>
+            <div style="font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--accent-lime);">✓ contacts.xlsx &nbsp;&nbsp;— Excel spreadsheet</div>
+            <div style="font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--neon-blue);">✉ EmailJS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Email notification</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="reveal">
+        <form class="contact-form" id="contact-form">
+          <div class="form-title">// send_message.sh</div>
+          <div class="form-row">
+            <div class="form-group">
+              <label class="form-label">Name *</label>
+              <input type="text" name="name" class="form-input" placeholder="Your name" required>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Email *</label>
+              <input type="email" name="email" class="form-input" placeholder="your@email.com" required>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Subject *</label>
+            <input type="text" name="subject" class="form-input" placeholder="What's this about?" required>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Message *</label>
+            <textarea name="message" class="form-textarea" placeholder="Tell me about your project or opportunity..." required></textarea>
+          </div>
+          <button type="submit" class="form-submit">⚡ SEND MESSAGE</button>
+          <div class="form-message" id="form-msg"></div>
+          <p style="font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--text-muted);margin-top:0.8rem;text-align:center;">
+            Auto-saved to CSV · SQLite DB · Excel on every submission
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-content">
+    <div class="footer-logo">SK.</div>
+    <div class="footer-text">
+      <div>Built with HTML · CSS · JS · FastAPI · Mistral AI · RAG · ♥</div>
+      <div style="margin-top:4px;">© 2025 Suryanandan Kumar · Gurugram, India</div>
+    </div>
+    <div class="footer-social">
+      <a href="https://github.com/Suryanandankumar2003" target="_blank" class="social-link" title="GitHub">⎔</a>
+      <a href="https://www.linkedin.com/in/suryanandan-kumar" target="_blank" class="social-link" title="LinkedIn">in</a>
+      <a href="mailto:suryanandankumar2003@gmail.com" class="social-link" title="Email">@</a>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+<script src="assets/js/skbot.js"></script>
+</body>
+</html>

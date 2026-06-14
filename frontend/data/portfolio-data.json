@@ -1,0 +1,81 @@
+{
+  "personal": {
+    "name": "Suryanandan Kumar",
+    "username": "Suryanandankumar2003",
+    "title": "DevOps Engineer",
+    "tagline": "DevOps | Cloud | AI & RAG Engineer",
+    "roles": ["DevOps Engineer", "Cloud Architect", "AI Developer", "RAG Pipeline Builder", "Automation Specialist"],
+    "quote": "If something can be automated, I'll script it — laziness is just efficiency in disguise.",
+    "location": "Gurugram, India",
+    "email": "suryanandankumar2003@gmail.com",
+    "github": "https://github.com/Suryanandankumar2003",
+    "linkedin": "https://www.linkedin.com/in/suryanandan-kumar",
+    "avatar": "https://avatars.githubusercontent.com/u/96558855?v=4",
+    "timezone": "UTC +05:30"
+  },
+  "about": {
+    "summary": "I'm a DevOps and Cloud enthusiast focused on building reliable, automated infrastructure. I enjoy turning complex, manual workflows into clean, repeatable systems — whether that's a Dockerized application, a CI/CD pipeline, a cloud deployment on AWS, or an intelligent RAG-powered application.",
+    "currentlyBuilding": "Dockerized apps, CI/CD pipelines, RAG systems & AWS deployments",
+    "currentlyLearning": "Kubernetes, Terraform, advanced AWS & LLM application development",
+    "openToCollaborate": "Open-source DevOps, cloud infrastructure & automation projects",
+    "askMeAbout": "C++, SQL, Linux, Git & cloud deployment fundamentals"
+  },
+  "skills": {
+    "cloud": ["AWS", "Google Cloud", "Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions"],
+    "languages": ["Python", "C++", "JavaScript", "Java", "C", "HTML5", "CSS3", "Bash/Shell", "LaTeX"],
+    "frameworks": ["Django", "TensorFlow", "PyTorch", "scikit-learn", "NumPy", "Pandas", "LangChain", "LlamaIndex"],
+    "databases": ["MySQL", "PostgreSQL", "DynamoDB", "FAISS", "SQLite"],
+    "ai": ["LangChain", "LlamaIndex", "HuggingFace", "FAISS", "Pinecone", "Mistral AI", "RAG Pipelines"],
+    "devops": ["CI/CD", "Infrastructure as Code", "Container Orchestration", "Monitoring", "Log Management"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "name": "PDF-RAG-Chatbot",
+      "description": "AI-powered PDF RAG Chatbot using LangChain, Mistral AI, FAISS, Streamlit and SQLite. Enables intelligent question-answering over PDF documents.",
+      "tech": ["Python", "LangChain", "Mistral AI", "FAISS", "Streamlit", "SQLite"],
+      "category": "AI/RAG",
+      "github": "https://github.com/Suryanandankumar2003/PDF-RAG-Chatbot",
+      "status": "Active",
+      "featured": true,
+      "icon": "🤖"
+    },
+    {
+      "id": 2,
+      "name": "Job-Application-Tracker",
+      "description": "A simple and interactive Job Application Tracker built using Streamlit. Helps users manage job applications efficiently with features like authentication, tracking, and analytics.",
+      "tech": ["Python", "Streamlit", "Authentication", "Analytics"],
+      "category": "Web App",
+      "github": "https://github.com/Suryanandankumar2003/Job-Application-Tracker",
+      "status": "Active",
+      "featured": true,
+      "icon": "📊"
+    }
+  ],
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "type": "Focus Area",
+      "description": "Building and maintaining CI/CD pipelines, containerized applications, and cloud infrastructure.",
+      "skills": ["Docker", "Kubernetes", "Jenkins", "GitHub Actions", "AWS"]
+    },
+    {
+      "role": "AI/RAG Developer",
+      "type": "Focus Area",
+      "description": "Developing intelligent RAG systems combining LLMs with production-ready DevOps practices.",
+      "skills": ["LangChain", "FAISS", "Mistral AI", "Python", "Vector DBs"]
+    },
+    {
+      "role": "Cloud & Automation Engineer",
+      "type": "Focus Area",
+      "description": "Automating infrastructure with Terraform, Ansible across AWS and GCP environments.",
+      "skills": ["Terraform", "Ansible", "AWS", "GCP", "IaC"]
+    }
+  ],
+  "stats": {
+    "repositories": 5,
+    "stars": 2,
+    "followers": 2,
+    "following": 4
+  }
+}

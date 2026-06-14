@@ -1,0 +1,83 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "PDF-RAG-Chatbot",
+      "description": "AI-powered PDF chatbot built using a full RAG (Retrieval-Augmented Generation) pipeline. Users can upload any PDF document and ask natural language questions. The system ingests the document, creates vector embeddings using FAISS, and uses Mistral AI as the LLM to generate context-aware answers. Built with Streamlit for the frontend and SQLite for persistent chat history.",
+      "tech_stack": ["Python", "LangChain", "Mistral AI", "FAISS", "Streamlit", "SQLite", "HuggingFace Embeddings"],
+      "category": "AI / RAG",
+      "github": "https://github.com/Suryanandankumar2003/PDF-RAG-Chatbot",
+      "status": "Active",
+      "featured": true,
+      "stars": 0,
+      "icon": "🤖",
+      "highlights": [
+        "Full RAG pipeline with document ingestion and chunking",
+        "FAISS vector store for semantic similarity search",
+        "Mistral AI as the language model",
+        "Persistent chat history with SQLite",
+        "Interactive Streamlit UI"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Job-Application-Tracker",
+      "description": "A full-featured job application management tool built with Streamlit. Allows users to track job applications with status updates, analytics dashboards, and user authentication. Helps job seekers organize their entire job search process efficiently with data visualization and CSV reporting.",
+      "tech_stack": ["Python", "Streamlit", "SQLite", "Pandas", "Matplotlib", "Authentication"],
+      "category": "Web Application",
+      "github": "https://github.com/Suryanandankumar2003/Job-Application-Tracker",
+      "status": "Active",
+      "featured": true,
+      "stars": 0,
+      "icon": "📊",
+      "highlights": [
+        "User authentication system",
+        "Application status tracking — Applied, Interview, Offer, Rejected",
+        "Analytics dashboard with charts and insights",
+        "CSV export functionality",
+        "Clean and intuitive Streamlit UI"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "AI Portfolio with RAG Chatbot",
+      "description": "This very portfolio website — a production-ready AI-powered portfolio built with HTML, CSS, JavaScript frontend and FastAPI backend. Features a floating RAG chatbot (SK-Bot) powered by LangChain, ChromaDB, HuggingFace embeddings, and Mistral AI. Contact form auto-saves to CSV, SQLite DB, and Excel simultaneously.",
+      "tech_stack": ["HTML5", "CSS3", "JavaScript", "FastAPI", "LangChain", "ChromaDB", "Mistral AI", "SQLite", "Python"],
+      "category": "Full Stack / AI",
+      "github": "https://github.com/Suryanandankumar2003",
+      "status": "Active",
+      "featured": true,
+      "stars": 0,
+      "icon": "🌐",
+      "highlights": [
+        "Floating RAG chatbot with ChromaDB + Mistral AI",
+        "Triple contact storage — CSV, SQLite, Excel",
+        "Dark cyberpunk UI with particle animations",
+        "FastAPI backend with rate limiting and XSS protection",
+        "HuggingFace sentence-transformers embeddings"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kubernetes CI/CD Pipeline",
+      "description": "End-to-end DevOps CI/CD pipeline with Kubernetes orchestration, Terraform Infrastructure as Code, Jenkins automation, and AWS cloud deployment. Implements full GitOps workflow with monitoring via Prometheus and Grafana. Demonstrates production-grade infrastructure automation.",
+      "tech_stack": ["Kubernetes", "Terraform", "Jenkins", "AWS", "Docker", "Prometheus", "Grafana", "GitHub Actions"],
+      "category": "DevOps / IaC",
+      "github": "https://github.com/Suryanandankumar2003",
+      "status": "Building",
+      "featured": true,
+      "stars": 0,
+      "icon": "🚀",
+      "highlights": [
+        "Full GitOps workflow from commit to production",
+        "Terraform infrastructure as code for AWS",
+        "Jenkins CI/CD automation pipeline",
+        "Kubernetes deployment manifests",
+        "Prometheus + Grafana monitoring stack"
+      ]
+    }
+  ],
+  "summary": "Suryanandan has built projects spanning AI/RAG systems, full-stack web applications, and DevOps automation pipelines. His flagship project is a PDF RAG Chatbot combining LangChain, Mistral AI, and FAISS. He also built a Job Application Tracker with Streamlit, this AI-powered portfolio, and is currently building a full Kubernetes CI/CD pipeline on AWS.",
+  "total": 4,
+  "github_profile": "https://github.com/Suryanandankumar2003"
+}

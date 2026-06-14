@@ -1,0 +1,39 @@
+{
+  "education": [
+    {
+      "degree": "Bachelor of Technology (B.Tech)",
+      "field": "Computer Science & Engineering",
+      "institution": "University / College",
+      "location": "India",
+      "status": "Pursuing",
+      "year": "2021–2025",
+      "relevant_courses": [
+        "Data Structures & Algorithms",
+        "Operating Systems",
+        "Database Management Systems",
+        "Computer Networks",
+        "Object-Oriented Programming (C++, Java)",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Cloud Computing"
+      ],
+      "highlights": [
+        "Strong foundation in C++ and Java OOP",
+        "Self-directed learning in DevOps and Cloud",
+        "Built real-world AI/RAG projects alongside academics",
+        "Active GitHub contributor"
+      ]
+    }
+  ],
+  "self_learning": [
+    "AWS Cloud Architecture",
+    "Docker & Kubernetes",
+    "Terraform & Ansible (IaC)",
+    "LangChain & RAG Pipelines",
+    "FastAPI & Django Backend",
+    "Linux System Administration",
+    "CI/CD Pipeline Design",
+    "Vector Databases (FAISS, ChromaDB)"
+  ],
+  "summary": "Suryanandan is pursuing a B.Tech in Computer Science & Engineering. He complements his formal education with extensive self-directed learning in DevOps, Cloud, and AI technologies — building production-ready projects that demonstrate practical expertise beyond the classroom."
+}

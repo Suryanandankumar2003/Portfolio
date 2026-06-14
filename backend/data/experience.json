@@ -1,0 +1,33 @@
+{
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "type": "Focus & Practice",
+      "description": "Building and maintaining CI/CD pipelines, containerized applications, and cloud infrastructure on AWS and GCP. Practices infrastructure as code with Terraform and Ansible. Implements monitoring and observability with Prometheus and Grafana.",
+      "skills": ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions", "AWS", "GCP", "CI/CD", "IaC"]
+    },
+    {
+      "role": "AI / RAG Developer",
+      "type": "Focus & Practice",
+      "description": "Developing intelligent Retrieval-Augmented Generation (RAG) systems that combine LLMs with custom knowledge bases. Experience building production RAG pipelines with LangChain, ChromaDB, FAISS, and Mistral AI. Integrates AI systems with DevOps practices for production deployments.",
+      "skills": ["LangChain", "FAISS", "ChromaDB", "Mistral AI", "HuggingFace", "Python", "Vector Databases", "RAG"]
+    },
+    {
+      "role": "Software Engineer",
+      "type": "Focus & Practice",
+      "description": "Building backend systems, REST APIs, and data-driven applications using Python, C++, and JavaScript. Experienced with Django for web development and Streamlit for data application UIs. Writes clean, maintainable, and well-documented code.",
+      "skills": ["Python", "C++", "Django", "FastAPI", "Streamlit", "MySQL", "PostgreSQL", "REST APIs"]
+    },
+    {
+      "role": "Cloud Automation Engineer",
+      "type": "Focus & Practice",
+      "description": "Automating infrastructure provisioning and configuration management across AWS and GCP using Terraform and Ansible. Implements GitOps workflows and manages containerized deployments at scale.",
+      "skills": ["Terraform", "Ansible", "AWS", "GCP", "Docker", "Kubernetes", "Shell Scripting"]
+    }
+  ],
+  "summary": "Suryanandan Kumar is a DevOps and AI Engineer based in Gurugram, India. He focuses on 4 core areas: DevOps automation, AI/RAG development, software engineering, and cloud infrastructure. He is actively building real-world projects combining all these disciplines.",
+  "philosophy": "If something can be automated, I will script it — laziness is just efficiency in disguise.",
+  "location": "Gurugram, Haryana, India",
+  "timezone": "UTC +05:30",
+  "open_to": "Remote and on-site opportunities in DevOps, Cloud Engineering, and AI/RAG development. Open to collaboration on open-source DevOps and AI projects."
+}

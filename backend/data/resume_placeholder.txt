@@ -1,0 +1,3 @@
+Place your resume.pdf here.
+File: backend/data/resume.pdf
+The ingest.py script will automatically include it in the vector store.

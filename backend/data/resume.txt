@@ -1,0 +1,59 @@
+SURYANANDAN KUMAR
+DevOps Engineer | Cloud Architect | AI & RAG Developer
+Gurugram, India | suryanandankumar2003@gmail.com
+GitHub: github.com/Suryanandankumar2003
+LinkedIn: linkedin.com/in/suryanandan-kumar
+
+OBJECTIVE
+Aspiring technology professional seeking an entry-level role where I can leverage my skills in programming, cloud
+computing, DevOps, and AI to develop scalable solutions, enhance operational efficiency, and contribute to
+business growth while continuously expanding my technical expertise
+
+SUMMARY
+DevOps and Cloud enthusiast focused on building reliable, automated infrastructure.
+Combines DevOps practices with modern AI to build production-ready intelligent applications.
+"If something can be automated, I'll script it — laziness is just efficiency in disguise."
+
+SKILLS
+Cloud/DevOps: AWS, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions
+AI/RAG: LangChain, FAISS, ChromaDB, Mistral AI, HuggingFace, sentence-transformers
+Languages: Python, C++, JavaScript, Java, Bash/Shell, SQL
+Frameworks: Django, FastAPI, Streamlit, TensorFlow, PyTorch
+Databases: MySQL, PostgreSQL, DynamoDB, SQLite, FAISS, ChromaDB
+
+PROJECTS
+1. PDF-RAG-Chatbot (AI/RAG)
+   - LangChain + Mistral AI + FAISS + Streamlit + SQLite
+   - Intelligent Q&A over any PDF with persistent chat history
+   - github.com/Suryanandankumar2003/PDF-RAG-Chatbot
+
+2. Job Application Tracker (Web App)
+   - Python + Streamlit + Authentication + Analytics + SQLite
+   - Full job search lifecycle management with dashboards
+   - github.com/Suryanandankumar2003/Job-Application-Tracker
+
+3. Kubernetes CI/CD Pipeline (DevOps) - In Progress
+   - Kubernetes + Terraform + Jenkins + AWS + Prometheus + Grafana
+   - End-to-end GitOps workflow with full IaC
+
+EDUCATION
+B.Tech Computer Science & Engineering (2021-2025)
+Strong foundation in DSA, OS, DBMS, Networks, OOP, AI, Cloud Computing
+
+EXPERIENCE
+DevOps Engineer: CI/CD pipelines, Docker, K8s, Terraform, Ansible, AWS, Monitoring
+AI/RAG Developer: LangChain, RAG pipelines, vector DBs, LLM APIs, HuggingFace
+Software Engineer: Python, C++, Django, FastAPI, REST APIs, Streamlit
+Cloud Engineer: AWS, GCP, IaC, Serverless, Container orchestration
+
+CERTIFICATIONS (In Progress/Completed)
+- AWS Cloud Practitioner (In Progress)
+- Docker Fundamentals (Completed 2024)
+- Python for Data Science & ML (Completed 2023)
+- LangChain & LLM Development (Completed 2024)
+
+CONTACT
+Email: suryanandankumar2003@gmail.com
+GitHub: https://github.com/Suryanandankumar2003
+LinkedIn: https://linkedin.com/in/suryanandan-kumar
+Location: Gurugram, Haryana, India (UTC+05:30)

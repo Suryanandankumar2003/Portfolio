@@ -1,0 +1,42 @@
+{
+  "name": "Suryanandan Kumar",
+  "username": "Suryanandankumar2003",
+  "title": "DevOps Engineer | Cloud Architect | AI & RAG Developer",
+  "tagline": "Building reliable, automated infrastructure and intelligent AI systems.",
+  "location": "Gurugram, Haryana, India",
+  "hometown": "Bihar, India",
+  "timezone": "UTC +05:30",
+  "email": "suryanandankumar2003@gmail.com",
+  "github": "https://github.com/Suryanandankumar2003",
+  "linkedin": "https://www.linkedin.com/in/suryanandan-kumar",
+  "avatar": "https://avatars.githubusercontent.com/u/96558855?v=4",
+  "bio": "I am a DevOps and Cloud enthusiast focused on building reliable, automated infrastructure. I enjoy turning complex, manual workflows into clean, repeatable systems — whether that is a Dockerized application, a CI/CD pipeline, a cloud deployment on AWS, or an intelligent RAG-powered application. I combine DevOps practices with modern AI to build production-ready intelligent applications.",
+  "currently_building": "Dockerized apps, CI/CD pipelines, RAG systems, and AWS cloud deployments.",
+  "currently_learning": "Kubernetes advanced patterns, Terraform modules, advanced AWS architecture, and LLM application development.",
+  "open_to_collaborate": "Open-source DevOps tools, cloud infrastructure automation, and AI/RAG projects.",
+  "ask_me_about": "C++, SQL, Linux, Git, Docker, cloud deployment fundamentals, and RAG pipeline design.",
+  "quote": "If something can be automated, I will script it — laziness is just efficiency in disguise.",
+  "contact_info": "Reach Suryanandan via email at suryanandankumar2003@gmail.com, connect on LinkedIn at linkedin.com/in/suryanandan-kumar, or explore his code on GitHub at github.com/Suryanandankumar2003.",
+  "roles": [
+    "DevOps Engineer",
+    "Cloud Architect",
+    "AI / RAG Developer",
+    "Automation Specialist",
+    "Software Engineer",
+    "Infrastructure Builder"
+  ],
+  "education_summary": "Pursuing B.Tech in Computer Science & Engineering from Sitamarhi Institute of Technology (Bihar Engineering University, Patna), graduating 2025. Completed 90-day AI DevOps Professional Training at Orbiqe Technologies Pvt. Ltd. sponsored by Bihar Skill Development Mission.",
+  "stats": {
+    "github_repos": 5,
+    "focus_areas": 4,
+    "training_days": 90,
+    "years_learning": "2+"
+  },
+  "fun_facts": [
+    "Believes automation is the highest form of engineering",
+    "Can write a Dockerfile faster than making coffee",
+    "Dreams in YAML and shell scripts",
+    "From Bihar, studying and working in Gurugram"
+  ],
+  "availability": "Open to remote and on-site opportunities in DevOps Engineering, Cloud Architecture, and AI/RAG development."
+}

@@ -1,0 +1,93 @@
+{
+  "certifications": [
+    {
+      "id": 1,
+      "name": "AI DevOps Professional Training Program",
+      "issuer": "Orbiqe Technologies Pvt. Ltd.",
+      "sponsor": "Bihar Skill Development Mission (Government of Bihar)",
+      "status": "Completed",
+      "type": "Professional Training",
+      "duration": "90 Days",
+      "period": "September 2025 – January 2026",
+      "skills_covered": [
+        "Linux / Ubuntu",
+        "Shell Scripting",
+        "Bash Automation",
+        "Git",
+        "GitHub",
+        "Version Control & Branching",
+        "Docker",
+        "Docker Compose",
+        "Kubernetes Fundamentals",
+        "Jenkins",
+        "CI/CD Pipelines",
+        "Ansible",
+        "Infrastructure Automation",
+        "AWS Basics",
+        "Cloud Fundamentals",
+        "Deployment Workflows"
+      ],
+      "description": "Completed a rigorous 90-day hands-on AI DevOps Professional Training Program with practical labs and project-based learning. Covered the full DevOps lifecycle from Linux fundamentals to container orchestration, CI/CD automation, and cloud infrastructure deployment.",
+      "badge_color": "green"
+    },
+    {
+      "id": 2,
+      "name": "Docker Fundamentals",
+      "issuer": "Docker Inc. / Self-Study",
+      "status": "Completed",
+      "type": "Technical Certification",
+      "period": "2024",
+      "skills_covered": ["Docker", "Containers", "Dockerfile", "Docker Compose", "Container Networking"],
+      "description": "Completed practical Docker training with hands-on containerization projects covering Dockerfile authoring, multi-container apps with Docker Compose, and container networking.",
+      "badge_color": "cyan"
+    },
+    {
+      "id": 3,
+      "name": "Python for Data Science & Machine Learning",
+      "issuer": "Coursera / Self-Study",
+      "status": "Completed",
+      "type": "Online Certification",
+      "period": "2023",
+      "skills_covered": ["Python", "NumPy", "Pandas", "scikit-learn", "Data Analysis", "Data Visualization"],
+      "description": "Completed comprehensive Python ML course with practical projects covering data manipulation, machine learning algorithms, and data visualization.",
+      "badge_color": "cyan"
+    },
+    {
+      "id": 4,
+      "name": "LangChain & LLM Application Development",
+      "issuer": "Self-Study / DeepLearning.AI",
+      "status": "Completed",
+      "type": "Technical Training",
+      "period": "2024",
+      "skills_covered": ["LangChain", "RAG Pipelines", "Vector Databases", "FAISS", "ChromaDB", "Mistral AI", "HuggingFace"],
+      "description": "Built real RAG applications using LangChain, FAISS, ChromaDB, and Mistral AI. Implemented end-to-end retrieval-augmented generation pipelines for intelligent document Q&A.",
+      "badge_color": "purple"
+    },
+    {
+      "id": 5,
+      "name": "AWS Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "status": "In Progress",
+      "type": "Cloud Certification",
+      "period": "2025",
+      "skills_covered": ["AWS Core Services", "EC2", "S3", "RDS", "Lambda", "IAM", "VPC", "Cloud Concepts", "Security", "Billing"],
+      "description": "Actively preparing for the AWS Cloud Practitioner certification. Strong hands-on foundation in AWS services through project deployments.",
+      "badge_color": "blue"
+    },
+    {
+      "id": 6,
+      "name": "Kubernetes Fundamentals",
+      "issuer": "CNCF / Orbiqe Training + Self-Study",
+      "status": "In Progress",
+      "type": "DevOps Certification",
+      "period": "2025",
+      "skills_covered": ["Kubernetes", "Pods", "Deployments", "Services", "ConfigMaps", "Helm", "kubectl"],
+      "description": "Learning Kubernetes for container orchestration at scale. Covered during the 90-day AI DevOps Training and continuing with advanced self-study.",
+      "badge_color": "blue"
+    }
+  ],
+  "summary": "Suryanandan has completed a 90-day AI DevOps Professional Training at Orbiqe Technologies (Bihar Skill Development Mission), Docker Fundamentals, Python ML, and LangChain/RAG development training. He is actively pursuing AWS Cloud Practitioner and Kubernetes certifications in 2025.",
+  "completed_count": 4,
+  "in_progress_count": 2,
+  "total_count": 6
+}

@@ -1,0 +1,33 @@
+{
+  "profile": "Suryanandan Kumar — DevOps Engineer, Cloud Architect, AI & RAG Developer from Gurugram, India.",
+  "cloud_devops": {
+    "title": "Cloud & DevOps",
+    "tools": ["AWS (EC2, S3, RDS, Lambda, VPC, IAM, CloudWatch)", "Google Cloud Platform (GCP)", "Docker", "Kubernetes (K8s)", "Terraform", "Ansible", "Jenkins", "GitHub Actions", "CI/CD Pipelines", "Infrastructure as Code (IaC)", "GitOps", "Nginx", "Prometheus", "Grafana"],
+    "summary": "Suryanandan designs and builds automated cloud infrastructure using AWS and GCP. He is proficient in Docker containerization, Kubernetes orchestration, and implements Infrastructure as Code with Terraform and Ansible. He builds end-to-end CI/CD pipelines using Jenkins and GitHub Actions."
+  },
+  "ai_ml": {
+    "title": "AI / Machine Learning / RAG",
+    "tools": ["LangChain", "LlamaIndex", "HuggingFace Transformers", "FAISS (Vector DB)", "Pinecone", "ChromaDB", "Mistral AI", "RAG Pipelines", "TensorFlow", "PyTorch", "scikit-learn", "sentence-transformers", "OpenCV"],
+    "summary": "Suryanandan specializes in Retrieval-Augmented Generation (RAG) systems — combining LLMs with custom knowledge bases using LangChain, FAISS, ChromaDB, and Mistral AI. He has built production RAG chatbots and is skilled in ML frameworks like TensorFlow, PyTorch, and scikit-learn."
+  },
+  "languages": {
+    "title": "Programming Languages",
+    "list": ["Python (Primary)", "C++ (Proficient)", "JavaScript", "Java", "C", "HTML5", "CSS3", "Bash/Shell Scripting", "SQL", "LaTeX"],
+    "summary": "Suryanandan's primary language is Python. He is also proficient in C++, JavaScript, and Bash scripting for automation."
+  },
+  "frameworks": {
+    "title": "Frameworks & Libraries",
+    "list": ["Django", "FastAPI", "Streamlit", "NumPy", "Pandas", "Matplotlib", "Seaborn", "OpenCV"],
+    "summary": "Suryanandan uses Django and FastAPI for backend development, and Streamlit for rapid ML/data dashboards."
+  },
+  "databases": {
+    "title": "Databases",
+    "list": ["MySQL", "PostgreSQL", "SQLite", "DynamoDB (AWS)", "FAISS (Vector)", "ChromaDB (Vector)", "Pinecone (Vector)", "Redis"],
+    "summary": "Suryanandan works with both relational databases (MySQL, PostgreSQL) and cloud databases (DynamoDB), as well as vector databases for AI applications (FAISS, ChromaDB, Pinecone)."
+  },
+  "tools": {
+    "title": "Dev Tools & Platforms",
+    "list": ["Git & GitHub", "Linux/Ubuntu", "VS Code", "Jira", "Postman", "Prometheus", "Grafana", "Jupyter Notebook"],
+    "summary": "Suryanandan is comfortable with the full Linux/DevOps toolchain including Git, Postman for API testing, and Prometheus/Grafana for monitoring."
+  }
+}
