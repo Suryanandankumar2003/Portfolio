@@ -1,0 +1,457 @@
+2026-06-10 01:28:17,673 [INFO] [CHAT] how can i contact him
+2026-06-10 01:28:19,440 [INFO] Loading embeddings: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:28:34,632 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:28:39,733 [INFO] Loading existing vectorstore from vectorstore
+2026-06-10 01:28:45,890 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-10 01:28:46,197 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:28:46,201 [INFO] Collection sk_portfolio is not created.
+2026-06-10 01:28:46,201 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:28:49,066 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:28:50,519 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:29:06,679 [INFO] [CHAT] how can i contact him
+2026-06-10 01:29:07,487 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:29:08,710 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:29:45,067 [INFO] [CHAT] give me his email id
+2026-06-10 01:29:45,671 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:29:46,439 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:30:54,068 [INFO] SK Portfolio API v3 starting...
+2026-06-10 01:30:54,090 [INFO] SQLite DB ready
+2026-06-10 01:30:54,100 [INFO] Chatbot ready
+2026-06-10 01:31:18,871 [INFO] [CHAT] How can I contact him?
+2026-06-10 01:31:22,176 [INFO] Loading embeddings: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:31:37,870 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:31:41,961 [INFO] Loading existing vectorstore from vectorstore
+2026-06-10 01:31:42,399 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-10 01:31:42,563 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:31:42,566 [INFO] Collection sk_portfolio is not created.
+2026-06-10 01:31:42,566 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:31:43,166 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:31:44,599 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:31:53,868 [INFO] [CHAT] How can I contact him?
+2026-06-10 01:31:54,496 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:31:55,493 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:40:33,121 [INFO] SK Portfolio API v3 starting...
+2026-06-10 01:40:33,137 [INFO] SQLite DB ready
+2026-06-10 01:40:33,148 [INFO] Chatbot ready
+2026-06-10 01:41:07,100 [INFO] [CHAT] github link please
+2026-06-10 01:41:10,494 [INFO] Loading embeddings: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:41:26,371 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:41:30,780 [INFO] Loading existing vectorstore from vectorstore
+2026-06-10 01:41:31,252 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-10 01:41:31,390 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:41:31,392 [INFO] Collection sk_portfolio is not created.
+2026-06-10 01:41:31,392 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:41:31,930 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:41:32,990 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:42:01,698 [INFO] [CHAT] tell me his location
+2026-06-10 01:42:02,396 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:42:03,450 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:42:42,397 [INFO] [CHAT] tell me his name
+2026-06-10 01:42:43,172 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:42:43,700 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:42:49,959 [INFO] [CHAT] location
+2026-06-10 01:42:50,514 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:42:51,154 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:43:06,589 [INFO] [CHAT] short summary
+2026-06-10 01:43:07,294 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:43:08,962 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:44:07,555 [INFO] [CHAT] tell me his objective
+2026-06-10 01:44:08,277 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:44:08,888 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:44:21,727 [INFO] [CHAT] find its objective from resume
+2026-06-10 01:44:22,292 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:44:23,003 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:52:30,930 [INFO] SK Portfolio API v3 starting...
+2026-06-10 01:52:30,932 [INFO] SQLite DB ready
+2026-06-10 01:52:30,934 [INFO] Chatbot ready
+2026-06-10 01:52:45,342 [INFO] [CHAT] hi
+2026-06-10 01:52:46,394 [INFO] Loading embeddings: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:52:53,621 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:52:57,905 [INFO] Loading existing vectorstore from vectorstore
+2026-06-10 01:52:58,281 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-10 01:52:58,423 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:52:58,425 [INFO] Collection sk_portfolio is not created.
+2026-06-10 01:52:58,426 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:52:59,050 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:53:00,130 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:53:12,419 [INFO] [CHAT] how are you
+2026-06-10 01:53:13,249 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:53:14,200 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:57:31,371 [INFO] SK Portfolio API v3 starting...
+2026-06-10 01:57:31,372 [INFO] SQLite DB ready
+2026-06-10 01:57:31,374 [INFO] Chatbot ready
+2026-06-10 01:57:32,293 [INFO] SK Portfolio API v3 starting...
+2026-06-10 01:57:32,294 [INFO] SQLite DB ready
+2026-06-10 01:57:32,296 [INFO] Chatbot ready
+2026-06-10 01:57:44,360 [INFO] [CHAT] how are you
+2026-06-10 01:57:45,345 [INFO] Loading embeddings: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:57:52,322 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 01:57:56,171 [INFO] Loading existing vectorstore from vectorstore
+2026-06-10 01:57:56,538 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-10 01:57:56,677 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:57:56,679 [INFO] Collection sk_portfolio is not created.
+2026-06-10 01:57:56,680 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:57:57,200 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 01:57:58,053 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:08,631 [INFO] [CHAT] how are you
+2026-06-10 01:58:09,451 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:10,243 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:21,597 [INFO] [CHAT] how are you
+2026-06-10 01:58:22,381 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:23,018 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:34,686 [INFO] [CHAT] tell me today date
+2026-06-10 01:58:35,262 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:35,944 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:43,059 [INFO] [CHAT] okay
+2026-06-10 01:58:43,810 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:44,458 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:56,713 [INFO] [CHAT] tell me objective
+2026-06-10 01:58:57,530 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:58:58,162 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:59:20,793 [INFO] [CHAT] give me email id of suryanandan
+2026-06-10 01:59:21,382 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:59:21,961 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:59:29,061 [INFO] [CHAT] give me email id
+2026-06-10 01:59:29,890 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:59:30,411 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:59:41,218 [INFO] [CHAT] how can i connect them
+2026-06-10 01:59:41,825 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 01:59:42,802 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:00:26,850 [INFO] [CHAT] bhai tu pagal ho gya h kya mera mail domain gmail.com hai
+2026-06-10 02:00:27,693 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:00:28,834 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:00:51,279 [INFO] [CHAT] give me email
+2026-06-10 02:00:52,139 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:00:52,779 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:01:20,577 [INFO] [CHAT] what is docker
+2026-06-10 02:01:21,578 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:01:28,187 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:01:45,144 [INFO] [CHAT] in english
+2026-06-10 02:01:45,899 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:01:48,130 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:02:10,592 [INFO] [CHAT] do you know about computer science
+2026-06-10 02:02:11,262 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:02:12,775 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:02:31,672 [INFO] [CHAT] 3+5=
+2026-06-10 02:02:32,786 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:02:33,436 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:02:51,109 [INFO] [CHAT] tell me about suryanandan personality
+2026-06-10 02:02:52,243 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:02:53,092 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:03:04,721 [INFO] [CHAT] tell me about suryanandan project
+2026-06-10 02:03:05,572 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:03:06,540 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:03:15,370 [INFO] [CHAT] tell me about project
+2026-06-10 02:03:16,453 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:03:17,092 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:03:39,724 [INFO] [CHAT] tell me about domain
+2026-06-10 02:03:40,772 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:03:45,418 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:04:09,992 [INFO] [CHAT] tell me about suryanandan domain
+2026-06-10 02:04:11,172 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:04:11,700 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:04:22,165 [INFO] [CHAT] tell me about suryanandan kumar domain
+2026-06-10 02:04:22,888 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:04:23,433 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:04:34,536 [INFO] [CHAT] hi
+2026-06-10 02:04:35,173 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:04:35,812 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:04:43,268 [INFO] [CHAT] how are you
+2026-06-10 02:04:43,873 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:04:47,263 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:05:02,294 [INFO] [CHAT] do you know suryanandan
+2026-06-10 02:05:03,144 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:05:03,982 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:05:27,926 [INFO] [CHAT] tell me about his work experience
+2026-06-10 02:05:28,933 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:05:29,557 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:05:51,109 [INFO] [CHAT] summerize its resume
+2026-06-10 02:05:51,975 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:05:52,783 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:06:01,619 [INFO] [CHAT] summerize its profile
+2026-06-10 02:06:02,540 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:06:03,645 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:41:14,956 [INFO] SK Portfolio API v3 starting...
+2026-06-10 02:41:14,977 [INFO] SQLite DB ready
+2026-06-10 02:41:14,992 [INFO] Chatbot ready
+2026-06-10 02:51:36,089 [INFO] SK Portfolio API v3 starting...
+2026-06-10 02:51:36,107 [INFO] SQLite DB ready
+2026-06-10 02:51:36,115 [INFO] Chatbot ready
+2026-06-10 02:51:49,916 [INFO] [CHAT] hi
+2026-06-10 02:51:51,317 [INFO] Loading embeddings model: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 02:51:58,713 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 02:52:02,626 [INFO] Loading existing vectorstore from: vectorstore
+2026-06-10 02:52:02,917 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-10 02:52:03,030 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 02:52:03,031 [INFO] Collection sk_portfolio is not created.
+2026-06-10 02:52:03,032 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 02:52:03,882 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 02:52:04,794 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:52:13,620 [INFO] [CHAT] hi
+2026-06-10 02:52:14,722 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:52:15,353 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:52:23,595 [INFO] [CHAT] who is suryanandan
+2026-06-10 02:52:24,963 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:52:26,553 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:52:46,793 [INFO] [CHAT] which project he have done
+2026-06-10 02:52:47,475 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:52:48,544 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:53:15,244 [INFO] [CHAT] tell me about suryanandan pdf rag chatbot
+2026-06-10 02:53:15,990 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:53:18,186 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:53:50,048 [INFO] [CHAT] tell me about suryanandan knowledge about rag
+2026-06-10 02:53:51,355 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:53:52,954 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:54:24,895 [INFO] [CHAT] have suryanandan knowledge about java ?
+2026-06-10 02:54:25,558 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:54:26,234 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:54:45,082 [INFO] [CHAT] have suryanandan knowledge about php?
+2026-06-10 02:54:46,073 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:54:46,618 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:55:08,357 [INFO] [CHAT] what is the objective of suryanandan
+2026-06-10 02:55:09,115 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:55:09,991 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:55:33,578 [INFO] [CHAT] tell me about suryanandan nature
+2026-06-10 02:55:34,238 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:55:34,874 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:55:44,485 [INFO] [CHAT] tell me about nlp
+2026-06-10 02:55:45,172 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:55:47,204 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:56:04,552 [INFO] [CHAT] tell me about suryanandan schooling
+2026-06-10 02:56:05,436 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:56:06,082 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:56:18,568 [INFO] [CHAT] where had suryanandan learned
+2026-06-10 02:56:19,254 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:56:20,474 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:56:49,612 [INFO] [CHAT] do you know suryanandan
+2026-06-10 02:56:50,443 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:56:51,299 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:57:18,706 [INFO] [CHAT] i want to know about its portfolio structure
+2026-06-10 02:57:19,675 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:57:22,555 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:57:53,356 [INFO] [CHAT] what is compiler design and its benifit
+2026-06-10 02:57:54,236 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:57:54,874 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:58:04,142 [INFO] [CHAT] what is compiler design
+2026-06-10 02:58:05,436 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:58:08,849 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:58:49,967 [INFO] [CHAT] tell me the location of it
+2026-06-10 02:58:50,668 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:58:51,516 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:58:59,414 [INFO] [CHAT] tell me location of him
+2026-06-10 02:59:00,476 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:59:01,117 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:59:13,505 [INFO] [CHAT] tell me location
+2026-06-10 02:59:14,563 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:59:15,204 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:59:34,185 [INFO] [CHAT] tell me his social media link
+2026-06-10 02:59:37,675 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:59:38,611 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:59:58,022 [INFO] [CHAT] is he shy person or not
+2026-06-10 02:59:58,767 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 02:59:59,677 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:00:42,072 [INFO] [CHAT] tell me his one most intrested tech stack
+2026-06-10 03:00:42,878 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:00:44,477 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:01:59,448 [INFO] [CHAT] tell me his ask me about
+2026-06-10 03:02:00,607 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:02:02,237 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:02:38,103 [INFO] [CHAT] in which things he currently working
+2026-06-10 03:02:39,036 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:02:39,926 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:03:14,533 [INFO] [CHAT] give me his profile pic
+2026-06-10 03:03:15,197 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:03:15,837 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:03:28,433 [INFO] [CHAT] give me his profile picture
+2026-06-10 03:03:29,279 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:03:29,892 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:03:55,813 [INFO] [CHAT] how many repository currently suryanandan have
+2026-06-10 03:03:56,478 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:03:57,548 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:04:11,995 [INFO] [CHAT] end
+2026-06-10 03:04:12,797 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:04:13,437 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:04:18,936 [INFO] [CHAT] exit
+2026-06-10 03:04:19,561 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:04:20,369 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:04:45,903 [INFO] [CHAT] thank you for helping us
+2026-06-10 03:04:46,501 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:04:47,528 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:05:14,936 [INFO] [CHAT] speak in english only please
+2026-06-10 03:05:15,517 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:05:16,159 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:21:51,099 [INFO] [CHAT] eixt
+2026-06-10 03:21:52,013 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:21:55,524 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:22:00,148 [INFO] [CHAT] exit
+2026-06-10 03:22:00,964 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:22:01,654 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:22:32,328 [INFO] SK Portfolio API v3 starting...
+2026-06-10 03:22:32,361 [INFO] SQLite DB ready
+2026-06-10 03:22:32,376 [INFO] Chatbot ready
+2026-06-10 03:23:00,860 [INFO] [CHAT] hi
+2026-06-10 03:23:05,933 [INFO] Loading embeddings model: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 03:24:03,407 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 03:24:09,142 [INFO] Loading existing vectorstore from: vectorstore
+2026-06-10 03:24:11,543 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-10 03:24:11,963 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 03:24:11,965 [INFO] Collection sk_portfolio is not created.
+2026-06-10 03:24:11,966 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 03:24:13,177 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 03:24:13,776 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:24:13,783 [INFO] [CHAT] exit
+2026-06-10 03:24:14,416 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:24:15,255 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:25:41,611 [INFO] [CHAT] What cloud tech does he know?
+2026-06-10 03:25:42,247 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:25:43,048 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:25:47,756 [INFO] [CHAT] What projects has he built?
+2026-06-10 03:25:48,390 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:25:49,385 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:26:10,140 [INFO] [CHAT] hi
+2026-06-10 03:26:10,728 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:26:11,526 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:26:16,250 [INFO] [CHAT] how are you
+2026-06-10 03:26:16,785 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:26:17,438 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:26:40,327 [INFO] [CHAT] what are you doing right now
+2026-06-10 03:26:40,888 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:26:41,616 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:26:51,419 [INFO] [CHAT] eixt
+2026-06-10 03:26:52,104 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:26:53,134 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:27:24,618 [INFO] [CHAT] it is running globally dear
+2026-06-10 03:27:25,449 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:27:26,087 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:27:36,391 [INFO] [CHAT] endaa
+2026-06-10 03:27:36,944 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:27:39,208 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:28:21,432 [INFO] [CHAT] mai tumse gussa hu hme nhi baat krni jao
+2026-06-10 03:28:22,408 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:28:24,085 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:29:03,396 [INFO] [CHAT] hme tum route batao hme patna se delhi jana h kaise jaye
+2026-06-10 03:29:04,163 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:29:07,528 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:29:35,701 [INFO] [CHAT] hame train se jani h
+2026-06-10 03:29:38,817 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:29:39,449 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:29:46,100 [INFO] [CHAT] rail
+2026-06-10 03:29:46,888 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:29:47,529 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:30:08,714 [INFO] [CHAT] What projects has he built?
+2026-06-10 03:30:09,609 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:30:10,250 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:30:25,918 [INFO] [CHAT] Who is Suryanandan?
+2026-06-10 03:30:26,889 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:30:28,619 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:31:29,251 [INFO] [CHAT] omg its amazing for me thank you
+2026-06-10 03:31:30,249 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:31:32,921 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:06,530 [INFO] [CHAT] bye baby and good night
+2026-06-10 03:32:07,368 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:08,044 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:20,288 [INFO] [CHAT] love you so much
+2026-06-10 03:32:21,128 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:21,761 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:30,544 [INFO] [CHAT] i love you
+2026-06-10 03:32:31,378 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:32,330 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:50,145 [INFO] [CHAT] so ja bhai tu v
+2026-06-10 03:32:50,899 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:53,230 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:54,829 [INFO] [CHAT] chal band ho ja ab
+2026-06-10 03:32:55,403 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:32:56,649 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:33:23,735 [INFO] [CHAT] so jao bhai exit krr k
+2026-06-10 03:33:24,443 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:33:25,577 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:33:55,792 [INFO] [CHAT] dcm infotech k bare me batao
+2026-06-10 03:33:56,508 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:33:57,130 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:34:12,083 [INFO] [CHAT] tell me about dcm infotech gurugram
+2026-06-10 03:34:12,810 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 03:34:13,777 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 15:04:38,426 [INFO] SK Portfolio API v3 starting...
+2026-06-10 15:04:38,506 [INFO] SQLite DB ready
+2026-06-10 15:04:38,529 [INFO] Chatbot ready
+2026-06-10 15:05:34,078 [INFO] [CHAT] Who is Suryanandan?
+2026-06-10 15:05:48,782 [INFO] Loading embeddings model: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 15:08:04,936 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 15:08:13,917 [INFO] Loading existing vectorstore from: vectorstore
+2026-06-10 15:08:20,110 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-10 15:08:21,762 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 15:08:21,776 [INFO] Collection sk_portfolio is not created.
+2026-06-10 15:08:21,778 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 15:08:25,585 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 15:08:27,492 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 15:08:28,766 [INFO] [CHAT] hi
+2026-06-10 15:08:29,354 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 15:08:30,209 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 15:08:30,252 [INFO] [CHAT] ho are you
+2026-06-10 15:08:30,814 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 15:08:32,973 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 15:08:33,003 [INFO] [CHAT] how are you
+2026-06-10 15:08:33,561 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 15:08:34,453 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:10:24,192 [INFO] [CHAT] hi
+2026-06-10 17:10:33,487 [INFO] Loading embeddings model: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 17:11:34,795 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-10 17:11:41,465 [INFO] Loading existing vectorstore from: vectorstore
+2026-06-10 17:11:45,131 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-10 17:11:45,873 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 17:11:45,878 [INFO] Collection sk_portfolio is not created.
+2026-06-10 17:11:45,878 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 17:11:48,496 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-10 17:11:49,329 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:11:49,399 [INFO] [CHAT] tell me about his project
+2026-06-10 17:11:49,908 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:11:51,145 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:11:51,155 [INFO] [CHAT] tell me about his project
+2026-06-10 17:11:51,730 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:11:52,969 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:12:05,154 [INFO] [CHAT] tell me about his project
+2026-06-10 17:12:05,953 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 17:12:07,676 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:09:34,343 [INFO] [CHAT] Who is Suryanandan?
+2026-06-15 15:09:48,805 [INFO] Loading embeddings model: sentence-transformers/all-MiniLM-L6-v2
+2026-06-15 15:11:36,715 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-06-15 15:11:44,191 [INFO] Loading existing vectorstore from: vectorstore
+2026-06-15 15:11:49,175 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-06-15 15:11:50,162 [ERROR] Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2026-06-15 15:11:50,165 [INFO] Collection sk_portfolio is not created.
+2026-06-15 15:11:50,166 [ERROR] Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2026-06-15 15:11:54,985 [ERROR] Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2026-06-15 15:11:57,057 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:17:34,704 [INFO] [CHAT] tell me about his project in short
+2026-06-15 15:17:35,780 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:17:37,538 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:18:01,440 [INFO] [CHAT] and tell me another project also
+2026-06-15 15:18:02,380 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:18:03,421 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:18:26,802 [INFO] [CHAT] tell me his educational background
+2026-06-15 15:18:27,676 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:18:29,060 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:19:08,391 [INFO] [CHAT] give me his github page of its project link
+2026-06-15 15:19:15,780 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:19:16,738 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:19:28,824 [INFO] [CHAT] give me his project github link
+2026-06-15 15:19:29,571 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:19:30,497 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:19:39,078 [INFO] [CHAT] okay nice
+2026-06-15 15:19:39,879 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:19:40,812 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:19:49,817 [INFO] [CHAT] how are you
+2026-06-15 15:19:50,662 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:19:51,571 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:20:02,562 [INFO] [CHAT] o bhai sahab
+2026-06-15 15:20:03,792 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:20:05,387 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:20:18,741 [INFO] [CHAT] what is docker
+2026-06-15 15:20:19,429 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:20:21,760 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:20:33,166 [INFO] [CHAT] exit
+2026-06-15 15:20:34,022 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:20:34,828 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:20:50,632 [INFO] [CHAT] end chat
+2026-06-15 15:20:51,460 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 15:20:52,465 [INFO] HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
